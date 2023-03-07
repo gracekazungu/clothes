@@ -1,0 +1,7 @@
+body{background-image: url(image1.jpg);background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+    #bton{background-color: green;border-radius: 30px;padding: 20px;margin: 30px;}
+    #till{background-color: darkgoldenrod;border-radius: 30px;padding: 20px;margin: 30px;}
+    #bill{background-color: grey;border-radius: 30px;padding: 20px;}
+    #go{background-color: aqua;border-radius: 20px;padding: 20px;text-align: center;}

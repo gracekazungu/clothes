@@ -1,0 +1,9 @@
+body{background-image:url(image2.jpg) ;background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;}
+    .like{color: aqua;}
+    #btn{background-color: aqua;padding: 20px;border-radius: 20px;}
+    .flex{display: flex;}
+    #email{border-style: solid;background-color: darkgray;border-radius: 20px;padding: 30px;}
+    #Number{border-style: solid;background-color: darkgray;border-radius: 20px;padding: 30px;margin: 20px;}
+    #buttn{border-style: solid;background-color: aqua;border-radius: 20px;padding: 30px;}
